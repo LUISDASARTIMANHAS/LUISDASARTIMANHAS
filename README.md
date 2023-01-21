@@ -30,9 +30,9 @@
   <a href = "mailto:luisaugustodesouza785@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
-  <a href="" target="_blank">
+<!--   <a href="" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a> 
+ </a>  -->
  <a href="https://wa.me/55027995744791" target="_blank">
   <img src="https://static.whatsapp.net/rsrc.php/v3/yz/r/ujTY9i_Jhs1.png" target="_blank">
  </a> 
