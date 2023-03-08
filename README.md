@@ -16,7 +16,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra Contato direto sobre programação siga nas redes abaixo!
  
 <div> 
  <a href="https://discord.gg/TUpNd6CQgg" target="_blank">
