@@ -7,7 +7,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISDASARTIMANHAS&layout=compact&langs_count=6&theme=tokyonight"/>
     </a>
  
- <a href="https://pingobras.glitch.me">
+ <a href="https://pingobras.glitch.me" target="_blank">
     <img src="https://cdn.glitch.global/b39d6a4a-0e14-4b41-930d-29d3ccd6c137/PINGOBRAS LOGO.png?v=1678209428960" 
          height="180em" 
          alt="Pingobras Logo"/>
