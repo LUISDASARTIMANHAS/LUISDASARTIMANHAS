@@ -3,11 +3,14 @@
  <div>
    <a href="https://github.com/LUISDASARTIMANHAS">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUISDASARTIMANHAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISDASARTIMANHAS&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISDASARTIMANHAS&layout=compact&langs_count=6&theme=tokyonight"/>
     </a>
     
     <a href="https://pingobras.glitch.me">
-    <img src="https://cdn.glitch.global/b39d6a4a-0e14-4b41-930d-29d3ccd6c137/PINGOBRAS LOGO.png?v=1678209428960" height="180em" alt="Pingobras Logo"/>
+    <img src="https://cdn.glitch.global/b39d6a4a-0e14-4b41-930d-29d3ccd6c137/PINGOBRAS LOGO.png?v=1678209428960" 
+         height="180em" 
+         alt="Pingobras Logo"/>
     </a>
 
 </div>
