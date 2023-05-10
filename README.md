@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do LUISDASARTIMANHAS😁
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monoton&weight=800&duration=2000&pause=1000&color=CC00FF&background=000000&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=500&height=150&lines=Bem-vindo(a)+ao+perfil+do+LUISDASARTIMANHAS%F0%9F%98%81;T%C3%89CNICO+DE+INFORMATICA.;T%C3%89CNICO+DE+MONTAGEM+DE+COMPUTADORES.;T%C3%89CNICO+DE++MANUTEN%C3%87%C3%83O+DE+COMPUTADORES.;T%C3%89CNICO+DE+REDES." alt="Typing SVG" /></a>
 
  <div>
    <a href="https://github.com/LUISDASARTIMANHAS">
