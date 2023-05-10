@@ -23,7 +23,7 @@
  
  <br>
  
-  ### Pra Contato direto sobre programação siga nas redes abaixo!
+  ### Para um contato direto sobre programação siga nas redes abaixo!
  
 <div> 
  <a href="https://discord.gg/TUpNd6CQgg" target="_blank">
