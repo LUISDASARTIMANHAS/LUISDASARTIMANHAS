@@ -1,11 +1,11 @@
 <a href="https://pingobras.glitch.me">
- <img src="https://readme-typing-svg.demolab.com?font=Monoton&weight=800&duration=2000&pause=1000&color=CC00FF&background=000000&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=550&height=200&lines=Bem-vindo(a)+ao+perfil+de+LUIS+DAS+ARTIMANHAS%F0%9F%98%81;DESENVOLVEDOR+DE+JOGOS.;T%C3%89CNICO+DE+INFORMATICA.;T%C3%89CNICO+DE++MONTAGEM+DE+COMPUTADORES.;T%C3%89CNICO+DE+MANUTEN%C3%87%C3%83O+DE+COMPUTADORES.;T%C3%89CNICO+DE+REDES." alt="Console De Informações ℹ" />
+ <img sync="785Ping" src="https://readme-typing-svg.demolab.com?font=Monoton&weight=800&duration=2000&pause=1000&color=CC00FF&background=000000&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=550&height=200&lines=Bem-vindo(a)+ao+perfil+de+LUIS+DAS+ARTIMANHAS%F0%9F%98%81;DESENVOLVEDOR+DE+JOGOS.;T%C3%89CNICO+DE+INFORMATICA.;T%C3%89CNICO+DE++MONTAGEM+DE+COMPUTADORES.;T%C3%89CNICO+DE+MANUTEN%C3%87%C3%83O+DE+COMPUTADORES.;T%C3%89CNICO+DE+REDES." alt="Console De Informações ℹ" />
 </a>
 
  <div>
    <a href="https://github.com/LUISDASARTIMANHAS">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUISDASARTIMANHAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" 
+   <img sync="785Ping" height="180em" src="https://github-readme-stats.vercel.app/api?username=LUISDASARTIMANHAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" sync="785Ping"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISDASARTIMANHAS&layout=compact&langs_count=6&theme=tokyonight"/>
     </a>
  
@@ -27,7 +27,7 @@
  
   ### Para um contato direto sobre programação siga nas redes abaixo!
  
-<div> 
+<div sync="785Ping"> 
  <a href="https://discord.gg/TUpNd6CQgg" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  </a> 
