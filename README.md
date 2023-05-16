@@ -37,7 +37,7 @@
  <a href="https://wa.me/55027995744791" target="_blank">
   <img src="https://static.whatsapp.net/rsrc.php/v3/yz/r/ujTY9i_Jhs1.png" target="_blank">
  </a> 
- <a href="[https://wa.me/55027995744791](https://ava.cefor.ifes.edu.br/user/profile.php?id=106968)" target="_blank">
+ <a href="https://wa.me/55027995744791](https://ava.cefor.ifes.edu.br/user/profile.php?id=106968" target="_blank">
   <img src="https://ifes.edu.br/templates/padraogoverno01/favicon-32x32.png" >
  </a> 
  
