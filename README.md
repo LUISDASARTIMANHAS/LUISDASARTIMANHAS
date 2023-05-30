@@ -1,5 +1,5 @@
 <a href="https://pingobras.glitch.me">
- <img sync="785Ping" src="https://readme-typing-svg.demolab.com?font=Monoton&weight=800&duration=2000&pause=1000&color=CC00FF&background=000000&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=550&height=200&lines=Bem-vindo(a)+ao+perfil+de+LUIS+DAS+ARTIMANHAS%F0%9F%98%81;DESENVOLVEDOR+DE+JOGOS.;T%C3%89CNICO+DE+INFORMATICA.;T%C3%89CNICO+DE++MONTAGEM+DE+COMPUTADORES.;T%C3%89CNICO+DE+REDES." alt="Console De Informações ℹ" />
+ <img sync="785Ping" src="https://readme-typing-svg.demolab.com?font=Monoton&weight=800&duration=2000&pause=1000&color=CC00FF&background=000000&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=550&height=200&lines=Bem-vindo(a)+ao+perfil+de+LUIS+DAS+ARTIMANHAS%F0%9F%98%81;DESENVOLVEDOR+DE+JOGOS.;T%C3%89CNICO+DE+INFORMATICA.;T%C3%89CNICO+DE+MONTAGEM+E+MANUTEN%C3%87%C3%83O+DE+COMPUTADORES.;T%C3%89CNICO+DE+REDES." alt="Console De Informações ℹ" />
 </a>
 
  <div>
