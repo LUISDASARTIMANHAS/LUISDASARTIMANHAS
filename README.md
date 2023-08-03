@@ -5,7 +5,7 @@
  <div>
    <a href="https://github.com/LUISDASARTIMANHAS">
    <img sync="785Ping" height="180em" src="https://github-readme-stats.vercel.app/api?username=LUISDASARTIMANHAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" sync="785Ping"
+   <img width="65%" sync="785Ping"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISDASARTIMANHAS&layout=compact&langs_count=6&theme=tokyonight"/>
     </a>
  
