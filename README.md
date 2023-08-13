@@ -23,6 +23,7 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Node JS" height="40" width="50" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img align="center" alt="Phyton" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+  <img align="center" alt="Linguagem C" height="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX-S3xMEHcUAbj5BZGBoQA4zkREQotxhX_OY93k0OEkw&s">
   <img align="center" alt="Lua Programming" height="40" width="50" src="https://www.lua.org/images/lua30.gif">
 </div>
  
