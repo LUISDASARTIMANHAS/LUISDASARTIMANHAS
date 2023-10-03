@@ -4,8 +4,10 @@
 
  <div>
    <a href="https://github.com/LUISDASARTIMANHAS">
-   <img src="https://github-readme-stats.vercel.app/api?username=LUISDASARTIMANHAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISDASARTIMANHAS&layout=compact&langs_count=10&theme=tokyonight"/>
+   <img whidth="100%"
+    src="https://github-readme-stats.vercel.app/api?username=LUISDASARTIMANHAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+   <img whidth="100%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISDASARTIMANHAS&layout=compact&langs_count=10&theme=tokyonight"/>
     </a>
  
  <a href="https://pingobras.glitch.me" target="_blank">
