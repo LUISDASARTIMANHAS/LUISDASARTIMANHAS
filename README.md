@@ -23,6 +23,7 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Node JS" height="40" width="50" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+  <img align="center" alt="Java" height="40" width="50" src="https://www.java.com/favicon.ico">
   <img align="center" alt="Phyton" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
   <img align="center" alt="Linguagem C" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/6bcd95cb54b7a2bf23b9a35d5983b12d3ed4c28a/Meus%20Planos%20De%20Fundos/c-original.svg">
   <img align="center" alt="Lua Programming" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/f73655034c820900b2f70b42de4c6a29e52a3182/Meus%20Planos%20De%20Fundos/lua-plain-wordmark.svg">
@@ -43,7 +44,7 @@
   <img src="https://static.whatsapp.net/rsrc.php/v3/yz/r/ujTY9i_Jhs1.png" target="_blank">
  </a> 
  
- <a href="https://ava.cefor.ifes.edu.br/user/profile.php?id=106968" target="_blank">
+ <a href="https://www.ifes.edu.br/" target="_blank">
   <img src="https://ifes.edu.br/templates/padraogoverno01/favicon-32x32.png" >
  </a> 
 
