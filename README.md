@@ -4,9 +4,8 @@
 
  <div>
    <a href="https://github.com/LUISDASARTIMANHAS">
-   <img whidth="100%" sync="785Ping" src="https://github-readme-stats.vercel.app/api?username=LUISDASARTIMANHAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img width="55%" sync="785Ping"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISDASARTIMANHAS&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=LUISDASARTIMANHAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISDASARTIMANHAS&layout=compact&langs_count=10&theme=tokyonight"/>
     </a>
  
  <a href="https://pingobras.glitch.me" target="_blank">
@@ -45,7 +44,5 @@
  <a href="https://ava.cefor.ifes.edu.br/user/profile.php?id=106968" target="_blank">
   <img src="https://ifes.edu.br/templates/padraogoverno01/favicon-32x32.png" >
  </a> 
- 
-  ![Snake animation](https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/output/github-contribution-grid-snake.svg)
 
 </div>
