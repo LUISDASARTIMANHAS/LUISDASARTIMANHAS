@@ -25,7 +25,7 @@
   <img align="center" alt="Node JS" height="40" width="50" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img align="center" alt="Phyton" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
   <img align="center" alt="Linguagem C" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/6bcd95cb54b7a2bf23b9a35d5983b12d3ed4c28a/Meus%20Planos%20De%20Fundos/c-original.svg">
-  <img align="center" alt="Lua Programming" height="40" width="50" src="https://www.lua.org/images/lua30.gif">
+  <img align="center" alt="Lua Programming" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/f73655034c820900b2f70b42de4c6a29e52a3182/Meus%20Planos%20De%20Fundos/lua-plain-wordmark.svg">
 </div>
  
  <br>
