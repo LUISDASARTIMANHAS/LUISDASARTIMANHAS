@@ -1,19 +1,19 @@
 <a href="https://pingobras.glitch.me">
- <img sync="785Ping" src="https://readme-typing-svg.demolab.com?font=Monoton&weight=800&duration=2000&pause=1000&color=CC00FF&background=000000&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=550&height=200&lines=Bem-vindo(a)+ao+perfil+de+LUIS+DAS+ARTIMANHAS%F0%9F%98%81;DESENVOLVEDOR+DE+JOGOS.;T%C3%89CNICO+DE+INFORMATICA.;T%C3%89CNICO+DE+MONTAGEM+E+MANUTEN%C3%87%C3%83O+DE+COMPUTADORES.;T%C3%89CNICO+DE+REDES." alt="Console De Informações ℹ" />
+ <img src="https://readme-typing-svg.demolab.com?font=Monoton&weight=800&duration=2000&pause=1000&color=CC00FF&background=000000&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=550&height=200&lines=Bem-vindo(a)+ao+perfil+de+LUIS+DAS+ARTIMANHAS%F0%9F%98%81;DESENVOLVEDOR+DE+JOGOS.;T%C3%89CNICO+DE+INFORMATICA.;T%C3%89CNICO+DE+MONTAGEM+E+MANUTEN%C3%87%C3%83O+DE+COMPUTADORES.;T%C3%89CNICO+DE+REDES." alt="Console De Informações ℹ" />
 </a>
 
  <div>
    <a href="https://github.com/LUISDASARTIMANHAS">
-   <img width="100%"
+   <img width="55%"
     src="https://github-readme-stats.vercel.app/api?username=LUISDASARTIMANHAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-   <img width="100%"
+   <img width="55%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISDASARTIMANHAS&layout=compact&langs_count=10&theme=tokyonight"/>
     </a>
  
  <a href="https://pingobras.glitch.me" target="_blank">
-    <img src="https://cdn.glitch.global/b39d6a4a-0e14-4b41-930d-29d3ccd6c137/PINGOBRAS LOGO.png?v=1678209428960" 
-         height="180em" 
-         alt="Pingobras Logo"/>
+    <img width="55%"
+     src="https://cdn.glitch.global/b39d6a4a-0e14-4b41-930d-29d3ccd6c137/PINGOBRAS LOGO.png?v=1678209428960"    
+     alt="Pingobras Logo"/>
     </a>
 
 </div>
