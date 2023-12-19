@@ -23,6 +23,7 @@
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="SASS" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/SASS-PROJECT/blob/main/src/assets/logo.svg">
   <img align="center" alt="Node JS" height="40" width="50" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img align="center" alt="Java" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/689a03efe58d8184ba81517888fa81190301f92c/Meus%20Planos%20De%20Fundos/java-original.svg">
   <img align="center" alt="Phyton" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
