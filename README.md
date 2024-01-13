@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://pingobras.glitch.me">
- <img src="https://readme-typing-svg.demolab.com?font=Monoton&weight=800&duration=2000&pause=1000&color=CC00FF&background=000000&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=550&height=200&lines=Bem-vindo(a)+ao+perfil+de+LUIS+DAS+ARTIMANHAS%F0%9F%98%81;DESENVOLVEDOR+DE+JOGOS.;T%C3%89CNICO+DE+INFORMATICA.;T%C3%89CNICO+DE+MONTAGEM+E+MANUTEN%C3%87%C3%83O+DE+COMPUTADORES.;T%C3%89CNICO+DE+REDES." alt="Console De Informações ℹ" />
+ <img src="https://readme-typing-svg.demolab.com?font=Monoton&weight=800&duration=2000&pause=1000&color=CC00FF&background=000000&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=550&height=200&lines=Bem-vindo+ao+perfil+de+LUIS+DAS+ARTIMANHAS!+%F0%9F%98%81;Sou+um+desenvolvedor+de+jogos.;Experi%C3%AAncia+como+t%C3%A9cnico+de+inform%C3%A1tica%2C;Montagem+e+manuten%C3%A7%C3%A3o+de+computadores%2C+e+redes.;Estou+sempre+em+busca+de+desafios+e+oportunidades.;Vamos+explorar+o+mundo+da+tecnologia+juntos!+%F0%9F%9A%80%F0%9F%92%BB" alt="Console De Informações ℹ" />
 </a>
 
  <div>
