@@ -33,17 +33,23 @@
  
  <br>
  
-  ### Para um contato direto sobre programação siga nas redes abaixo!
+  ### Contato direto sobre programação siga nas redes abaixo!
  
 <div sync="785Ping"> 
  <a href="https://discord.gg/TUpNd6CQgg" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  </a> 
+ 
   <a href = "mailto:luisaugustodesouza785@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
+ 
  <a href="https://wa.me/5527995744791" target="_blank">
   <img src="https://static.whatsapp.net/rsrc.php/v3/yz/r/ujTY9i_Jhs1.png" target="_blank">
+ </a> 
+ 
+ <a href="https://www.instagram.com/luis_das_artimanhas/" target="_blank">
+  <img src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" target="_blank">
  </a> 
  
  <a href="https://www.ifes.edu.br/" target="_blank">
