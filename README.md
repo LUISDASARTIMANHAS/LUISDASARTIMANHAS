@@ -25,6 +25,7 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/SASS-PROJECT/blob/main/src/assets/logo.svg">
   <img align="center" alt="Node JS" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/nodejs-logo.png?raw=true">
+ <img align="center" alt="SQLite" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/sqlite370_banner.gif?raw=true">
   <img align="center" alt="handlebarsjs" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/handlebars_logo.png?raw=true">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/java-original.svg">
   <img align="center" alt="Phyton" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/Python-logo-notext.svg">
