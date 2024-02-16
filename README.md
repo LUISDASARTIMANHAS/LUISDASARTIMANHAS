@@ -24,12 +24,12 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/SASS-PROJECT/blob/main/src/assets/logo.svg">
-  <img align="center" alt="Node JS" height="40" width="50" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+  <img align="center" alt="Node JS" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/nodejs-logo.png?raw=true">
   <img align="center" alt="handlebarsjs" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/handlebars_logo.png?raw=true">
-  <img align="center" alt="Java" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/689a03efe58d8184ba81517888fa81190301f92c/Meus%20Planos%20De%20Fundos/java-original.svg">
-  <img align="center" alt="Phyton" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-  <img align="center" alt="Linguagem C" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/6bcd95cb54b7a2bf23b9a35d5983b12d3ed4c28a/Meus%20Planos%20De%20Fundos/c-original.svg">
-  <img align="center" alt="Lua Programming" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/f73655034c820900b2f70b42de4c6a29e52a3182/Meus%20Planos%20De%20Fundos/lua-plain-wordmark.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/java-original.svg">
+  <img align="center" alt="Phyton" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/Python-logo-notext.svg">
+  <img align="center" alt="Linguagem C" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/c-original.svg">
+  <img align="center" alt="Lua Programming" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/lua-plain-wordmark.svg">
 </div>
  
  <br>
