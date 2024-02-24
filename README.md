@@ -60,7 +60,18 @@
 
 </div>
 
+***
+
  <div>
-  <video autoplay src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/assets/75493473/869cec13-fc95-4c48-92c8-291bddcfd209"></video>
+  
+  ## Vídeos de Projetos!
+  
+  <video autoplay alt="Pokemon Project" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/assets/75493473/869cec13-fc95-4c48-92c8-291bddcfd209"></video>
+  <video autoplay alt="Xmen Project" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/assets/75493473/9c4da860-300d-4792-849e-b7045916f345"></video>
+  <video autoplay alt="One Piece Project" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/assets/75493473/f879a0a6-ab3a-4737-96c5-b4ad03bb0408"></video>
+  <video autoplay alt="Gta Project" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/assets/75493473/090be9af-417b-4849-84b4-f7084ae8b899"></video>
+  <video autoplay alt=" Project" src=""></video>
+  
+  
  </div>
 </div>
