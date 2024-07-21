@@ -62,6 +62,28 @@
 
 ***
 
+<div>
+  
+  ## BEST PROJECTS!
+   Rede Neural Evoluitva
+Este projeto envolve a implementação de uma rede neural evolutiva. Ele demonstra minhas habilidades em algoritmos avançados, estrutura de dados e aprendizado de máquina. Abaixo estão algumas informações sobre o projeto:
+
+| Tecnologias Utilizadas |
+|------------------------|
+| C   | 
+| C++ |
+| Algoritmos Genéticos |
+| Redes Neurais |
+
+Descrição:
+
+O projeto visa criar uma rede neural que evolui ao longo do tempo utilizando técnicas de algoritmos genéticos. Este trabalho foi desenvolvido no contexto da disciplina de Estrutura de Dados e demonstra o uso de conceitos avançados para resolver problemas complexos.
+Confira o projeto completo no repositório aqui.
+
+ </div>
+
+***
+
  <div>
   
   ## Vídeos de Projetos!
