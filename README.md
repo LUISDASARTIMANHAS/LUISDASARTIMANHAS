@@ -30,6 +30,7 @@
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/java-original.svg">
   <img align="center" alt="Phyton" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/Python-logo-notext.svg">
   <img align="center" alt="Linguagem C" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/c-original.svg">
+ <img align="center" alt="Linguagem C++" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/main/src/assets/icons/C%2B%2B_Logo.png">
   <img align="center" alt="Lua Programming" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/lua-plain-wordmark.svg">
 </div>
  
