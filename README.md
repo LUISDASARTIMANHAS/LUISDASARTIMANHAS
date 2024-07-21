@@ -66,7 +66,13 @@
   
   ## BEST PROJECTS!
    Rede Neural Evoluitva
-Este projeto envolve a implementação de uma rede neural evolutiva. Ele demonstra minhas habilidades em algoritmos avançados, estrutura de dados e aprendizado de máquina. Abaixo estão algumas informações sobre o projeto:
+Este projeto envolve a implementação de uma rede neural evolutiva. Ele demonstra minhas habilidades em algoritmos avançados, estrutura de dados e aprendizado de máquina.
+
+Powered By:
+
+<a href="https://github.com/LucasGarkDev">@👨‍💻 LUCAS GARK DEV - Desenvolvedor</a>
+&
+<a href="https://github.com/LUISDASARTIMANHAS">@LUIS DAS ARTIMANHAS</a>
 
 | Tecnologias Utilizadas |
 |------------------------|
