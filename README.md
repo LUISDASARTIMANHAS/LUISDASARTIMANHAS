@@ -65,7 +65,7 @@
 <div>
   
   ## BEST PROJECTS!
-   _Rede Neural Evoluitva_
+   ### _Rede Neural Evoluitva_
    
 Este projeto envolve a implementação de uma rede neural evolutiva. Ele demonstra minhas habilidades em algoritmos avançados, estrutura de dados e aprendizado de máquina.
 
@@ -85,7 +85,8 @@ Powered By:
 Descrição:
 
 O projeto visa criar uma rede neural que evolui ao longo do tempo utilizando técnicas de algoritmos genéticos. Este trabalho foi desenvolvido no contexto da disciplina de Estrutura de Dados e demonstra o uso de conceitos avançados para resolver problemas complexos.
-Confira o projeto completo no repositório <a href="https://github.com/LUISDASARTIMANHAS/IFES-SISTEMAS-DE-INFORMACAO/tree/PROG/ESTRUTURA%20DE%20DADOS/LISTA%20ALINHADA/TrabalhoDeRNAEvolutiva">aqui</a>.
+Confira o projeto completo no repositório 
+<a href="https://github.com/LUISDASARTIMANHAS/IFES-SISTEMAS-DE-INFORMACAO/tree/PROG/ESTRUTURA%20DE%20DADOS/LISTA%20ALINHADA/TrabalhoDeRNAEvolutiva">aqui</a>.
 
  </div>
 
