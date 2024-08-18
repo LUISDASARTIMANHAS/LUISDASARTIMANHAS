@@ -20,18 +20,26 @@
 </div>
 <div style="display: inline_block">
  <br>
+ 
+  ### FrontEnd
+ 
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SASS" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/SASS-PROJECT/blob/main/src/assets/logo.svg">
+
+  ### BackEnd
   <img align="center" alt="Node JS" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/nodejs-logo.png?raw=true">
- <img align="center" alt="SQLite" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/sqlite370_banner.gif?raw=true">
-  <img align="center" alt="handlebarsjs" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/handlebars_logo.png?raw=true">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/java-original.svg">
   <img align="center" alt="Phyton" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/Python-logo-notext.svg">
-  <img align="center" alt="Linguagem C" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/c-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/java-original.svg">
+ <img align="center" alt="SQLite" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/sqlite370_banner.gif?raw=true">
+ <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/main/src/assets/icons/mysql-logo-3d.png">
  <img align="center" alt="Linguagem C++" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/main/src/assets/icons/C%2B%2B_Logo.png">
+  <img align="center" alt="Linguagem C" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/c-original.svg">
   <img align="center" alt="Lua Programming" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/lua-plain-wordmark.svg">
+
+  ### Outros
+  <img align="center" alt="SASS" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/SASS-PROJECT/blob/main/src/assets/logo.svg">
+  <img align="center" alt="handlebarsjs" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/handlebars_logo.png?raw=true">
 </div>
  
  <br>
