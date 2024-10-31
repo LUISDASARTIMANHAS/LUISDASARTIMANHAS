@@ -112,4 +112,8 @@ Confira o projeto completo no repositório
   <video src='https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/assets/75493473/869cec13-fc95-4c48-92c8-291bddcfd209' width=180/> | <video src='https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/assets/75493473/9c4da860-300d-4792-849e-b7045916f345' width=180/> | <video src='https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/assets/75493473/f879a0a6-ab3a-4737-96c5-b4ad03bb0408' width=180/> | <video src='https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/assets/75493473/090be9af-417b-4849-84b4-f7084ae8b899' width=180/>  
   
  </div>
+ 
+ ***
+
+![DISABLED](##https://github-profile-trophy.vercel.app/?theme=dracula&username=LUISDASARTIMANHAS&column=3&margin-w=15&margin-h=15)
 </div>
