@@ -47,6 +47,11 @@
   ### Outros
   <img align="center" title="Sass" alt="Sass" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/SASS-PROJECT/blob/main/src/assets/logo.svg">
   <img align="center" title="Handlebarsjs" alt="Handlebarsjs" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/handlebars_logo.png?raw=true">
+
+  ### IDEs - Ambientes
+  <img align="center" title="Vscode" alt="Vscode" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/vscode-ide.png?raw=true">
+  <img align="center" title="NetBeans" alt="NetBeans" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/e047c435cd8cd09268046e1004e44662d12e1e54/src/assets/icons/apache-netbeans.svg">
+  
 </div>
  
  <br>
