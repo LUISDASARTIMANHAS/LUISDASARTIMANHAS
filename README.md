@@ -34,16 +34,20 @@
 
   ### BackEnd
   <img align="center" title="Node JS" alt="Node JS" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/nodejs-logo.png?raw=true">
-  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/postgresql.png?raw=true">
   <img align="center" title="Python" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/Python-logo-notext.svg">
   <img align="center" title="Assembly" alt="Assembly" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/Assembly-icon.png">
   <img align="center" title="Java" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/java-original.svg">
- <img align="center" title="SQLite" alt="SQLite" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/sqlite370_banner.gif?raw=true">
- <img align="center" title="MySQL" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/main/src/assets/icons/mysql-logo-3d.png">
+ 
  <img align="center" title="Linguagem C++" alt="Linguagem C++" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/main/src/assets/icons/C%2B%2B_Logo.png">
   <img align="center" title="Linguagem C" alt="Linguagem C" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/c-original.svg">
   <img align="center" title="Lua Programming" alt="Lua Programming" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/lua-plain-wordmark.svg">
 
+  ### Banco De Dados
+  <img align="center" title="SQLite" alt="SQLite" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/sqlite370_banner.gif?raw=true">
+  <img align="center" title="MySQL" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/main/src/assets/icons/mysql-logo-3d.png">
+  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="50" width="60" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/postgresql.png?raw=true">
+  <img align="center" title="MongoDB" alt="MongoDB" height="50" width="60" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/mongodb-logo.png?raw=true">
+  
   ### Outros
   <img align="center" title="Sass" alt="Sass" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/SASS-PROJECT/blob/main/src/assets/logo.svg">
   <img align="center" title="Handlebarsjs" alt="Handlebarsjs" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/handlebars_logo.png?raw=true">
@@ -51,6 +55,7 @@
   ### IDEs - Ambientes
   <img align="center" title="Vscode" alt="Vscode" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/vscode-ide.png?raw=true">
   <img align="center" title="NetBeans" alt="NetBeans" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/e047c435cd8cd09268046e1004e44662d12e1e54/src/assets/icons/apache-netbeans.svg">
+  <img align="center" title="Visual Paradigm" alt="Visual Paradigm" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/visual-paradigm.png?raw=true">
   
 </div>
  
