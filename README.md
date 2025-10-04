@@ -4,23 +4,20 @@
 </a>
 
  <div>
-   <a href="https://github.com/LUISDASARTIMANHAS"> 
+  <a href="https://github.com/LUISDASARTIMANHAS"> 
    <img width="26%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISDASARTIMANHAS&layout=compact&langs_count=12&theme=tokyonight"/>
-    <img width="50%"
+   <img width="50%"
     src="https://github-readme-stats.vercel.app/api?username=LUISDASARTIMANHAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://commitworth.vercel.app/dashboard/LUISDASARTIMANHAS">
-     <img src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/meu-card.png"/>
-    </a>
- 
-   <a href="https://pingobras.glitch.me" target="_blank">
-    <img width="55%"
-     src="https://cdn.glitch.global/b39d6a4a-0e14-4b41-930d-29d3ccd6c137/PINGOBRAS LOGO.png?v=1678209428960"    
-     alt="Pingobras Logo"/>
-   </a>
-
+  </a>
+  <a href="https://pingobras.glitch.me" target="_blank">
+  <img width="55%"
+  src="https://cdn.glitch.global/b39d6a4a-0e14-4b41-930d-29d3ccd6c137/PINGOBRAS LOGO.png?v=1678209428960"    
+  alt="Pingobras Logo"/>
+</a>
 </div>
+
+
 <div style="display: inline_block">
  <br>
  
@@ -131,5 +128,8 @@ Confira o projeto completo no repositório
  
  ***
 
-![DISABLED](##https://github-profile-trophy.vercel.app/?theme=dracula&username=LUISDASARTIMANHAS&column=3&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?theme=dracula&username=LUISDASARTIMANHAS&column=3&margin-w=15&margin-h=15)
+ <a href="https://commitworth.vercel.app/dashboard/LUISDASARTIMANHAS">
+ <img src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/meu-card.png"/>
+</a>
 </div>
