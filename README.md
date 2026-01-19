@@ -45,9 +45,11 @@
   <img align="center" title="Handlebarsjs" alt="Handlebarsjs" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/handlebars_logo.png?raw=true">
 
   ### IDEs - Ambientes
+  <img align="center" title="Arduino IDE" alt="Arduino IDE" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/favicon-arduino-32x32.png">
   <img align="center" title="Vscode" alt="Vscode" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/vscode-ide.png?raw=true">
   <img align="center" title="NetBeans" alt="NetBeans" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/e047c435cd8cd09268046e1004e44662d12e1e54/src/assets/icons/apache-netbeans.svg">
   <img align="center" title="Visual Paradigm" alt="Visual Paradigm" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/visual-paradigm.png?raw=true">
+  <img align="center" title="Power BI" alt="Power BI" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/PowerBI_Favicon.ico">
   
 </div>
  
@@ -73,7 +75,7 @@
  </a> 
  
  <a href="https://www.ifes.edu.br/" target="_blank">
-  <img src="https://ifes.edu.br/templates/padraogoverno01/favicon-32x32.png" >
+  <img src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/favicon-IFES-32x32.png" >
  </a> 
 
 </div>
