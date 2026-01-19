@@ -129,8 +129,6 @@ Confira o projeto completo no repositório
  <img src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/meu-card.png"/>
 </a>
 
-![trophy](https://github-profile-trophy.vercel.app/?theme=dracula&username=LUISDASARTIMANHAS&column=3&margin-w=15&margin-h=15)
-
 ### my official websites
 <a href="https://pingobras.glitch.me" target="_blank">
    <img width="55%"
