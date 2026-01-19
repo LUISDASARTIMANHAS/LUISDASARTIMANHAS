@@ -135,4 +135,10 @@ Confira o projeto completo no repositório
    src="https://cdn.glitch.global/b39d6a4a-0e14-4b41-930d-29d3ccd6c137/PINGOBRAS LOGO.png?v=1678209428960"    
    alt="Pingobras Logo"/>
 </a>
+
+<a href="https://luisdasartimanhas.github.io/CyberWatch/" target="_blank">
+   <img width="55%"
+   src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/CyberWatch-logo.png"    
+   alt="CyberWatch Logo"/>
+</a>
 </div>
