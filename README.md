@@ -124,33 +124,36 @@ Confira o projeto completo no repositório
  </div>
  
  ***
-
  <a href="https://commitworth.vercel.app/dashboard/LUISDASARTIMANHAS">
- <img src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/meu-card.png"/>
-</a>
-
-### my official websites
-<a href="https://pingobras.glitch.me" target="_blank">
-   <img width="50%"
-   src="https://cdn.glitch.global/b39d6a4a-0e14-4b41-930d-29d3ccd6c137/PINGOBRAS LOGO.png?v=1678209428960"    
-   alt="Pingobras Logo"/>
-</a>
-
-<a href="https://luisdasartimanhas.github.io/CyberWatch/" target="_blank">
-   <img width="50%"
-   src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/CyberWatch-logo.png"    
-   alt="CyberWatch Logo"/>
-</a>
-
-<a href="https://luisdasartimanhas.github.io/LDA-CreditoTech-Nexus/" target="_blank">
-   <img width="50%"
-   src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/LDA-CreditoTech-Nexus-logo.png"    
-   alt="LDA-CreditoTech-Nexus Logo"/>
-</a>
-
-<a href="https://luisdasartimanhas.github.io/LDA-Public-DB/" target="_blank">
-   <img width="50%"
-   src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/LDA-Public-DB-logo.png"    
-   alt="LDA Public DB Logo"/>
-</a>
+   <img src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/meu-card.png"/>
+  </a>
+  
+<section>
+ 
+## my official websites
+ 
+  <a href="https://pingobras.glitch.me" target="_blank">
+     <img width="49%"
+     src="https://cdn.glitch.global/b39d6a4a-0e14-4b41-930d-29d3ccd6c137/PINGOBRAS LOGO.png?v=1678209428960"    
+     alt="Pingobras Logo"/>
+  </a>
+  
+  <a href="https://luisdasartimanhas.github.io/CyberWatch/" target="_blank">
+     <img width="49%"
+     src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/CyberWatch-logo.png"    
+     alt="CyberWatch Logo"/>
+  </a>
+  
+  <a href="https://luisdasartimanhas.github.io/LDA-CreditoTech-Nexus/" target="_blank">
+     <img width="49%"
+     src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/LDA-CreditoTech-Nexus-logo.png"    
+     alt="LDA-CreditoTech-Nexus Logo"/>
+  </a>
+  
+  <a href="https://luisdasartimanhas.github.io/LDA-Public-DB/" target="_blank">
+     <img width="49%"
+     src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/LDA-Public-DB-logo.png"    
+     alt="LDA Public DB Logo"/>
+  </a>
+ </section>
 </div>
