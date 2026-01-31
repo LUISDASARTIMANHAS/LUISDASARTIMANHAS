@@ -142,6 +142,12 @@ Confira o projeto completo no repositório
    alt="CyberWatch Logo"/>
 </a>
 
+<a href="https://luisdasartimanhas.github.io/LDA-CreditoTech-Nexus/" target="_blank">
+   <img width="50%"
+   src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/LDA-CreditoTech-Nexus-logo.png"    
+   alt="LDA-CreditoTech-Nexus Logo"/>
+</a>
+
 <a href="https://luisdasartimanhas.github.io/LDA-Public-DB/" target="_blank">
    <img width="50%"
    src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/LDA-Public-DB-logo.png"    
