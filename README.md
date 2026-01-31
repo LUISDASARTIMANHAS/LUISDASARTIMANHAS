@@ -155,5 +155,17 @@ Confira o projeto completo no repositório
      src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/LDA-Public-DB-logo.png"    
      alt="LDA Public DB Logo"/>
   </a>
+
+  <a href="https://luisdasartimanhas.github.io/IFES-SISTEMAS-DE-INFORMACAO/" target="_blank">
+     <img width="49%"
+     src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/gif/404.gif"    
+     alt="IFES-SISTEMAS-DE-INFORMACAO Logo"/>
+  </a>
+  
+  <a href="https://luisdasartimanhas.github.io/factorio-atm-br-website/" target="_blank">
+     <img width="49%"
+     src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/gif/404.gif"    
+     alt="factorio-atm-br-website Logo"/>
+  </a>
  </section>
 </div>
