@@ -6,9 +6,9 @@
  <div>
   <a href="https://github.com/LUISDASARTIMANHAS"> 
    <img width="26%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISDASARTIMANHAS&layout=compact&langs_count=12&theme=tokyonight"/>
+    src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/profile/top-langs.svg"/>
    <img width="50%"
-    src="https://github-readme-stats.vercel.app/api?username=LUISDASARTIMANHAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/profile/stats.svg"/>
   </a>
 </div>
 
@@ -168,4 +168,7 @@ Confira o projeto completo no repositório
      alt="factorio-atm-br-website Logo"/>
   </a>
  </section>
+
+ ## atualizações automaticas do pefril!!
+ [![Update README cards](https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/actions/workflows/github-readme-stats.yml/badge.svg)](https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/actions/workflows/github-readme-stats.yml)
 </div>
