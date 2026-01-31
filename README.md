@@ -134,7 +134,7 @@ Confira o projeto completo no repositório
  
   <a href="https://pingobras.glitch.me" target="_blank">
      <img width="49%"
-     src="https://cdn.glitch.global/b39d6a4a-0e14-4b41-930d-29d3ccd6c137/PINGOBRAS LOGO.png?v=1678209428960"    
+     src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/gif/404.gif"    
      alt="Pingobras Logo"/>
   </a>
   
