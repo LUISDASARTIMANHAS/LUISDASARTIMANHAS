@@ -169,6 +169,6 @@ Confira o projeto completo no repositório
   </a>
  </section>
 
- ## atualizações automaticas do pefril!!
+ ## atualizações automaticas do perfil!!
  [![Update README cards](https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/actions/workflows/github-readme-stats.yml/badge.svg)](https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/actions/workflows/github-readme-stats.yml)
 </div>
