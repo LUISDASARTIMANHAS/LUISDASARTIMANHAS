@@ -11,11 +11,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Generate Most Used Languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: Most Used Languages
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=12&theme=tokyonight
+          path: profile/Most-Used-Languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
