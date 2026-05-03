@@ -23,18 +23,43 @@
  <br>
  
   ### FrontEnd
- 
-  <img align="center" title="HTML" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="JS" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="React" alt="React" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/react-Logo.png?raw=true">
-  <img align="center" title="Bootstrap" alt="Bootstrap" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/bootstrap-logo-shadow@2x.png?raw=true">
+  <table>
+   <tr>
+    <td>
+     <img align="center" title="HTML" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </td>
+    <td>
+     <img align="center" title="CSS" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </td>
+    <td>
+     <img align="center" title="JS" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </td>
+    <td>
+     <img align="center" title="React" alt="React" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/react-Logo.png?raw=true">
+    </td>
+    <td>
+     <img align="center" title="Bootstrap" alt="Bootstrap" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/bootstrap-logo-shadow@2x.png?raw=true">
+    </td>
+   </tr>
+  </table>
 
-  ### BackEnd
-  <img align="center" title="Node JS" alt="Node JS" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/nodejs-logo.png?raw=true">
-  <img align="center" title="Python" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/Python-logo-notext.svg">
-  <img align="center" title="Assembly" alt="Assembly" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/Assembly-icon.png">
-  <img align="center" title="Java" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/java-original.svg">
+ ### BackEnd
+  <table>
+   <tr>
+    <td>
+     <img align="center" title="Node JS" alt="Node JS" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/nodejs-logo.png?raw=true">
+    </td>
+    <td>
+     <img align="center" title="Python" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/Python-logo-notext.svg">
+    </td>
+    <td>
+     <img align="center" title="Assembly" alt="Assembly" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/Assembly-icon.png">
+    </td>
+    <td>
+     <img align="center" title="Java" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/java-original.svg">
+    </td>
+   </tr>
+  </table>
  
  <img align="center" title="Linguagem C++" alt="Linguagem C++" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/main/src/assets/icons/C%2B%2B_Logo.png">
   <img align="center" title="Linguagem C" alt="Linguagem C" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/c-original.svg">
