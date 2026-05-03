@@ -9,14 +9,16 @@
 <!-- sub container estatisticas -->
  <div>
   <a href="https://github.com/LUISDASARTIMANHAS"> 
+   <!-- top-langs.svg -->
    <img width="26%"
     src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/profile/top-langs.svg"/>
+   <!-- stats.svg -->
    <img width="50%"
     src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/profile/stats.svg"/>
   </a>
 </div>
 
-
+<!-- sub container linguagens de programação -->
 <div style="display: inline_block">
  <br>
  
