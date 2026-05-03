@@ -60,28 +60,74 @@
     </td>
    </tr>
   </table>
- 
- <img align="center" title="Linguagem C++" alt="Linguagem C++" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/main/src/assets/icons/C%2B%2B_Logo.png">
-  <img align="center" title="Linguagem C" alt="Linguagem C" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/c-original.svg">
-  <img align="center" title="Lua Programming" alt="Lua Programming" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/lua-plain-wordmark.svg">
+
+  
+  <table>
+   <tr>
+    <td>
+     <img align="center" title="Linguagem C++" alt="Linguagem C++" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/main/src/assets/icons/C%2B%2B_Logo.png">
+    </td>
+    <td>
+     <img align="center" title="Linguagem C" alt="Linguagem C" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/c-original.svg">
+    </td>
+    <td>
+     <img align="center" title="Lua Programming" alt="Lua Programming" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/d4b7a85761792aa799dc925c1ce6132358a3bd85/src/assets/icons/lua-plain-wordmark.svg">
+    </td>
+   </tr>
+  </table>
 
   ### Banco De Dados
-  <img align="center" title="SQLite" alt="SQLite" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/sqlite370_banner.gif?raw=true">
-  <img align="center" title="MySQL" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/main/src/assets/icons/mysql-logo-3d.png">
-  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="50" width="60" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/postgresql.png?raw=true">
-  <img align="center" title="MongoDB" alt="MongoDB" height="50" width="60" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/mongodb-logo.png?raw=true">
+  <table>
+   <tr>
+    <td>
+     <img align="center" title="SQLite" alt="SQLite" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/sqlite370_banner.gif?raw=true">
+    </td>
+    <td>
+     <img align="center" title="MySQL" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/main/src/assets/icons/mysql-logo-3d.png">
+    </td>
+    <td>
+      <img align="center" title="PostgreSQL" alt="PostgreSQL" height="50" width="60" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/postgresql.png?raw=true">
+    </td>
+    <td>
+      <img align="center" title="MongoDB" alt="MongoDB" height="50" width="60" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/mongodb-logo.png?raw=true">
+    </td>
+   </tr>
+  </table>
   
   ### Outros
-  <img align="center" title="Sass" alt="Sass" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/SASS-PROJECT/blob/main/src/assets/logo.svg">
-  <img align="center" title="Handlebarsjs" alt="Handlebarsjs" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/handlebars_logo.png?raw=true">
-
-  ### IDEs - Ambientes
-  <img align="center" title="Arduino IDE" alt="Arduino IDE" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/favicon-arduino-32x32.png">
-  <img align="center" title="Vscode" alt="Vscode" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/vscode-ide.png?raw=true">
-  <img align="center" title="NetBeans" alt="NetBeans" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/e047c435cd8cd09268046e1004e44662d12e1e54/src/assets/icons/apache-netbeans.svg">
-  <img align="center" title="Visual Paradigm" alt="Visual Paradigm" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/visual-paradigm.png?raw=true">
-  <img align="center" title="Power BI" alt="Power BI" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/PowerBI_Favicon.ico">
+  <table>
+   <tr>
+    <td>
+      <img align="center" title="Sass" alt="Sass" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/SASS-PROJECT/blob/main/src/assets/logo.svg">
+    </td>
+    <td>
+     <img align="center" title="Handlebarsjs" alt="Handlebarsjs" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/handlebars_logo.png?raw=true">
+    </td>
+   </tr>
+  </table>
+ 
   
+  ### IDEs - Ambientes
+
+  <table>
+   <tr>
+    <td>
+      <img align="center" title="Arduino IDE" alt="Arduino IDE" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/favicon-arduino-32x32.png">
+    </td>
+    <td>
+     <img align="center" title="Vscode" alt="Vscode" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/vscode-ide.png?raw=true">
+    </td>
+    <td>
+     <img align="center" title="NetBeans" alt="NetBeans" height="40" width="50" src="https://raw.githubusercontent.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/e047c435cd8cd09268046e1004e44662d12e1e54/src/assets/icons/apache-netbeans.svg">
+    </td>
+    <td>
+     <img align="center" title="Visual Paradigm" alt="Visual Paradigm" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/icons/visual-paradigm.png?raw=true">
+    </td>
+    <td>
+     <img align="center" title="Power BI" alt="Power BI" height="40" width="50" src="https://github.com/LUISDASARTIMANHAS/LUISDASARTIMANHAS/blob/main/src/assets/imagens/PowerBI_Favicon.ico">
+    </td>
+   </tr>
+  </table>
 </div>
  
  <br>
