@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">LUIS_DAS_ARTIMANHAS&#39; GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 70, Total Commits  : 4568, Total PRs: 165, Total Issues: 32, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 70, Total Commits  : 4573, Total PRs: 165, Total Issues: 32, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 75.79387343221242;
+        stroke-dashoffset: 75.7877636363949;
       }
     }
   
